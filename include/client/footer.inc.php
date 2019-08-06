@@ -1,11 +1,7 @@
         </div>
     </div>
     <div id="footer">
-<<<<<<< HEAD
         <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved. Run on Azure App Services! by ukyung</p>
-=======
-        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - 5.	All rights reserved. Run on Azure App Services!</p>
->>>>>>> 8b5c7df05fa1b0a6d61363c52e67da4b7a4a40ef
         <a id="poweredBy" href="http://osticket.com" target="_blank"><?php echo __('Helpdesk software - powered by osTicket'); ?></a>
     </div>
 <div id="overlay"></div>
